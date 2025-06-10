@@ -20,5 +20,6 @@ Lớp: D22CQCN01-N
 
 
 Hệ thống sẽ được thiết kế để mở rộng và dễ dàng tích hợp với các dịch vụ khác trong tương lai.
-## Publication và Subcription 
-Với đề tài này tôi phân mảnh ra làm 4 chi nhánh. 
+## Các bước thực hiện phân tán. 
+Bước 1: tạo publication mới. 
+![]
